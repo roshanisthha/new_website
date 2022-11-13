@@ -1,0 +1,136 @@
+ @media (min-width: 800px) and (max-width: 850px) {
+            .navbar:not(.top-nav-collapse) {
+                background: #1C2331!important;
+            }
+        }
+.view,body,html{height:100%}.navbar{background-color:rgba(0,0,0,.2)}.page-footer,.top-nav-collapse{background-color:#1C2331}@media only screen and (max-width:768px){.navbar{background-color:#1C2331}}
+
+
+.carousel-caption {
+    
+    padding-bottom: 20% !important;
+    
+}
+
+.freedownload{
+    text-align: center;
+    margin: auto;
+  background-color: transparent;
+    display: flex;
+    color: aliceblue;
+    border-color: aliceblue;
+    font-size: 150%;
+    padding: 2% 5%;
+}
+.freedownload:hover{ 
+    background-color: brown;
+
+}
+.apply{
+    text-align: center;
+    margin: auto;
+  background-color: transparent;
+    display: flex;
+    color: black;
+    border-color: black;
+    font-size: 120%;
+    padding: 2% 7%;
+}
+.apply:hover{
+    background-color: blue;
+}
+.featured{
+    color: aliceblue;
+    border-color: red;
+    font-size: 100%;
+    padding: 5% 25%;
+    background-color: transparent;
+}
+.featured:hover{
+    background-color: rgb(205,16,29) ;
+}
+.box2 {
+
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 157%;
+    line-height: 100%;
+
+    letter-spacing: 0.02em;
+
+    width: 80%;
+    height: 203.76px;
+    padding-left: 21%
+}
+
+.box3 {
+
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 150%;
+    line-height: 100%;
+    letter-spacing: 0.02em;
+    width: 80%;
+    height: 203.76px;
+    padding-left: 21%;
+    color:white;
+
+    
+}
+.box4{
+
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 500;
+    
+    line-height: 121%;
+    letter-spacing: 0.02em;
+    width: 32%;
+   
+    color:white;
+    padding-left: 2%;
+    
+}
+.section4{
+    background-image: url(./1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: aliceblue;
+   
+}
+
+.section3 {
+    background-image: url(./Grey\ Textured\ Background\ Keep\ Moving\ Forward\ Motivational\ Quote\ Desktop\ Wallpaper.png);
+}
+.space{
+    font-family: 'Outfit';
+}
+.overlayy{
+    background-color: rgb(205,16,29);
+color: aliceblue;
+}
+.overlayyy{
+    background-color: rgb(37,37,37);
+    color: aliceblue;
+}
+.sectionn {
+    padding-left: 13%;
+    padding: 8%;
+    margin-top: 3%;
+}
+.contact{
+    text-align: center;
+    margin: auto;
+  background-color: white;
+    display: flex;
+    color: black;
+    border-color: white;
+   
+    padding: 0% 2%;
+    border-radius: 10%;
+}
+.contact:hover{
+    background-color: aqua;
+}
